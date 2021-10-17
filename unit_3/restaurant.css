@@ -1,0 +1,91 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #222;
+}
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: #111;
+}
+
+.paper{
+  background-color: #F2F6DF;
+  max-width: 960px;
+ margin: 40px auto 10px auto;
+ padding: 20px;
+ border-width: 4px;
+ border-style: dotted;
+ border-color: #F2E7C9;
+}
+
+ body{
+   background-color:#753742;
+ }
+
+ h1,h2,h3{
+   font-family: 'Alegreya', serif;
+   color: #B49286;
+ }
+
+ *{
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+  text-align: center;
+  font-size: 60px;
+  margin: 0;
+  font-weight: 900;
+}
+
+h2{
+  text-align: center;
+  font-size: 30px;
+  font-weight: 700;
+  margin-top: 10px;
+}
+
+header{
+  border-bottom-color: #FFA69E;
+  border-bottom-style: solid;
+  border-bottom-width: 5px;
+}
+
+section{
+  background-color: #FAF3DD;
+  padding: 10px;
+  margin: 20px 0;
+}
+
+h3{
+  font-size: 25px;
+  text-align: center;
+}
+
+.dish-title{
+  text-align: center;
+  font-weight: 400;
+  margin: 0;
+}
+
+.dish-price{
+  text-align: center;
+  font-weight: 700;
+  margin:0;
+}
+
+.dish{
+  margin-bottom: 20px;
+}
